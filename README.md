@@ -1,5 +1,5 @@
 # LIST OF SQL QUERIES
-![SQL]()
+![SQL_QUERIES](https://user-images.githubusercontent.com/73985710/211013768-29da8b57-8b4b-467c-9590-d49c9b5594c1.jpg)
 # FOURTH SEMESTER ASSIGNMENT ANSWERS
 ## Q1. Use of CREATE command to create a TABLE with PRIMARY KEY,NOT NULL,DEFAULT & FOREIGN KEY Constraint.
 ## Ans:
